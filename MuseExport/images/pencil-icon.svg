@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 71">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>pencil icon</title>
+  <g id="Layer_3" data-name="Layer 3">
+    <g>
+      <polyline class="cls-1" points="41.5 1 13 27.5 1 70 41.5 61.5 71 31.5"/>
+      <line class="cls-1" x1="52.5" y1="4.5" x2="22.5" y2="33.75"/>
+      <line class="cls-1" x1="38.25" y1="48" x2="67" y2="18.5"/>
+      <polyline class="cls-1" points="41.5 61.5 38.25 48 26 46 22.5 33.75 11.659 32.25"/>
+      <line class="cls-1" x1="5.386" y1="54.468" x2="16.26" y2="66.797"/>
+    </g>
+  </g>
+</svg>

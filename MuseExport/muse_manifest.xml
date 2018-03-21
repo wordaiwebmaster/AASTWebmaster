@@ -1,0 +1,185 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="wordai.win" resolutions="1x" timestamp="1521659351546">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="463127308" ref="design-brief:cate:awards:our-chapter:tsa---stem:organizations:majors:chapter-advisors:serivce-projects:chapter-officers"/>
+    <file name="design-brief.css" crc="3948758634" ref="design-brief"/>
+    <file name="cate.css" crc="4160546523" ref="cate"/>
+    <file name="index.css" crc="4239754043" ref="index"/>
+    <file name="awards.css" crc="4220201885" ref="awards"/>
+    <file name="our-chapter.css" crc="3777380765" ref="our-chapter"/>
+    <file name="tsa---stem.css" crc="397535661" ref="tsa---stem"/>
+    <file name="organizations.css" crc="287618956" ref="organizations"/>
+    <file name="majors.css" crc="40229108" ref="majors"/>
+    <file name="chapter-advisors.css" crc="286533118" ref="chapter-advisors"/>
+    <file name="serivce-projects.css" crc="482713502" ref="serivce-projects"/>
+    <file name="chapter-officers.css" crc="4262380146" ref="chapter-officers"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:our-chapter:cate:design-brief:majors:organizations:chapter-officers:chapter-advisors:tsa---stem:serivce-projects:awards"/>
+    <file name="museutils.js" crc="3803043152" ref="index:our-chapter:cate:design-brief:majors:organizations:chapter-officers:chapter-advisors:tsa---stem:serivce-projects:awards"/>
+    <file name="whatinput.js" crc="86476730" ref="index:our-chapter:cate:design-brief:majors:organizations:chapter-officers:chapter-advisors:tsa---stem:serivce-projects:awards"/>
+    <file name="museconfig.js" crc="380897831" ref="index:our-chapter:cate:design-brief:majors:organizations:chapter-officers:chapter-advisors:tsa---stem:serivce-projects:awards"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:our-chapter:cate:design-brief:majors:organizations:chapter-officers:chapter-advisors:tsa---stem:serivce-projects:awards"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:our-chapter:cate:design-brief:majors:organizations:chapter-officers:chapter-advisors:tsa---stem:serivce-projects:awards"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:our-chapter:cate:design-brief:majors:organizations:chapter-officers:chapter-advisors:tsa---stem:serivce-projects:awards"/>
+    <file name="require.js" crc="4157109226" ref="index:our-chapter:cate:design-brief:majors:organizations:chapter-officers:chapter-advisors:tsa---stem:serivce-projects:awards"/>
+  </folder>
+  <folder name="images">
+    <file name="book-icon.svg" crc="4149801775" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="book icon_poster_.png" crc="460490029" ref="index"/>
+    <file name="computer-icon.svg" crc="3821258930" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="computer icon_poster_.png" crc="4232487403" ref="index"/>
+    <file name="pencil-icon.svg" crc="4260125782" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pencil icon_poster_.png" crc="63575322" ref="index"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:our-chapter:cate:design-brief:majors:organizations:chapter-officers">
+      <caption webpage="chapter-officers" alt=""/>
+      <caption webpage="chapter-officers" alt=""/>
+      <caption webpage="cate" alt=""/>
+      <caption webpage="cate" alt=""/>
+      <caption webpage="cate" alt=""/>
+      <caption webpage="cate" alt=""/>
+      <caption webpage="cate" alt=""/>
+      <caption webpage="design-brief" alt=""/>
+      <caption webpage="design-brief" alt=""/>
+      <caption webpage="our-chapter" alt=""/>
+      <caption webpage="our-chapter" alt=""/>
+      <caption webpage="our-chapter" alt=""/>
+      <caption webpage="our-chapter" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="majors" alt=""/>
+      <caption webpage="majors" alt=""/>
+      <caption webpage="organizations" alt=""/>
+      <caption webpage="organizations" alt=""/>
+    </file>
+    <file name="aast tsa logo.png" crc="222139563" seo="true" ref="index:our-chapter:cate:design-brief:majors:organizations:chapter-officers:chapter-advisors:tsa---stem:serivce-projects:awards">
+      <caption webpage="chapter-officers" alt=""/>
+      <caption webpage="chapter-officers" alt=""/>
+      <caption webpage="cate" alt=""/>
+      <caption webpage="cate" alt=""/>
+      <caption webpage="design-brief" alt=""/>
+      <caption webpage="design-brief" alt=""/>
+      <caption webpage="chapter-advisors" alt=""/>
+      <caption webpage="our-chapter" alt=""/>
+      <caption webpage="our-chapter" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="majors" alt=""/>
+      <caption webpage="majors" alt=""/>
+      <caption webpage="awards" alt=""/>
+      <caption webpage="organizations" alt=""/>
+      <caption webpage="organizations" alt=""/>
+      <caption webpage="serivce-projects" alt=""/>
+      <caption webpage="tsa---stem" alt=""/>
+    </file>
+    <file name="copy of img_8736-crop-u165.jpg" crc="194624000" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="copy of img_6182-crop-u161.jpg" crc="38029036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_9822-crop-u163.jpg" crc="3984581202" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="img_9575.jpg" crc="3920752412" seo="true" ref="majors">
+      <caption webpage="majors" alt=""/>
+    </file>
+    <file name="computer science senior year (real)-crop-u8468.jpg" crc="425314080" seo="true" ref="majors">
+      <caption webpage="majors" alt=""/>
+    </file>
+    <file name="et.jpg" crc="4020982034" seo="true" ref="majors">
+      <caption webpage="majors" alt=""/>
+    </file>
+    <file name="et junior-crop-u8808.jpg" crc="4186309734" seo="true" ref="majors">
+      <caption webpage="majors" alt=""/>
+    </file>
+    <file name="et senior.jpg" crc="3958694496" seo="true" ref="majors">
+      <caption webpage="majors" alt=""/>
+    </file>
+    <file name="copy of engineering-crop-u8858.jpg" crc="3856924565" seo="true" ref="majors">
+      <caption webpage="majors" alt=""/>
+    </file>
+    <file name="pre eng junior-crop-u8885.jpg" crc="337585946" seo="true" ref="majors">
+      <caption webpage="majors" alt=""/>
+    </file>
+    <file name="pre enj senior.jpg" crc="3932490962" seo="true" ref="majors">
+      <caption webpage="majors" alt=""/>
+    </file>
+    <file name="dc-crop-u8935.jpg" crc="505625249" seo="true" ref="majors">
+      <caption webpage="majors" alt=""/>
+    </file>
+    <file name="dc junior.jpg" crc="3994958778" seo="true" ref="majors">
+      <caption webpage="majors" alt=""/>
+    </file>
+    <file name="dc senior.jpg" crc="3912680602" seo="true" ref="majors">
+      <caption webpage="majors" alt=""/>
+    </file>
+    <file name="computer science senior year-crop-u8478.jpg" crc="3947698279" seo="true" ref="majors">
+      <caption webpage="majors" alt=""/>
+    </file>
+    <file name="copy of vex-crop-u8997.jpg" crc="3832370811" seo="true" ref="organizations">
+      <caption webpage="organizations" alt=""/>
+    </file>
+    <file name="img_0836.jpg" crc="291422609" seo="true" ref="organizations">
+      <caption webpage="organizations" alt=""/>
+    </file>
+    <file name="officers.jpg" crc="173839141" seo="true" ref="chapter-officers">
+      <caption webpage="chapter-officers" alt=""/>
+    </file>
+    <file name="full chapter pic-crop-u9013.jpg" crc="324744592" seo="true" ref="tsa---stem">
+      <caption webpage="tsa---stem" alt=""/>
+    </file>
+    <file name="dscn3405.jpg" crc="3841336081" seo="true" ref="tsa---stem">
+      <caption webpage="tsa---stem" alt=""/>
+    </file>
+    <file name="tsa meeting.jpg" crc="378922402" seo="true" ref="tsa---stem">
+      <caption webpage="tsa---stem" alt=""/>
+    </file>
+    <file name="open house-crop-u9053.jpg" crc="4049676375" seo="true" ref="tsa---stem">
+      <caption webpage="tsa---stem" alt=""/>
+    </file>
+    <file name="img_8385.jpg" crc="70655823" seo="true" ref="tsa---stem">
+      <caption webpage="tsa---stem" alt=""/>
+    </file>
+    <file name="uac benefit.jpg" crc="167771029" seo="true" ref="serivce-projects">
+      <caption webpage="serivce-projects" alt=""/>
+    </file>
+    <file name="s4s-crop-u9079.jpg" crc="135766125" seo="true" ref="serivce-projects">
+      <caption webpage="serivce-projects" alt=""/>
+    </file>
+    <file name="acs-crop-u9089.jpg" crc="3799459090" seo="true" ref="serivce-projects">
+      <caption webpage="serivce-projects" alt=""/>
+    </file>
+    <file name="leap legacy chapter team-4th in nation.jpg" crc="3848201248" seo="true" ref="awards">
+      <caption webpage="awards" alt=""/>
+    </file>
+    <file name="tsa awards.jpg" crc="217052303" seo="true" ref="awards">
+      <caption webpage="awards" alt=""/>
+    </file>
+    <file name="kristina matthews-first place.jpg" crc="133156884" seo="true" ref="awards">
+      <caption webpage="awards" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4118503973" seo="true" mt="1521562099207" redirect="true"/>
+  <file name="our-chapter.html" crc="4119801858" seo="true" mt="1521481872577" redirect="true"/>
+  <file name="cate.html" crc="4278342637" seo="true" mt="1521481872579" redirect="true"/>
+  <file name="design-brief.html" crc="4180488286" seo="true" mt="1521563566388" redirect="true"/>
+  <file name="majors.html" crc="473931854" seo="true" mt="1521562631009" redirect="true"/>
+  <file name="organizations.html" crc="171576468" seo="true" mt="1521561972034" redirect="true"/>
+  <file name="chapter-officers.html" crc="439101555" seo="true" mt="1521481872584" redirect="true"/>
+  <file name="chapter-advisors.html" crc="4062446542" seo="true" mt="1521481872577" redirect="true"/>
+  <file name="tsa---stem.html" crc="3917182728" seo="true" mt="1521481872577" redirect="true"/>
+  <file name="serivce-projects.html" crc="195602071" seo="true" mt="1521481872577" redirect="true"/>
+  <file name="awards.html" crc="238160075" seo="true" mt="1521482955588" redirect="true"/>
+</manifest>

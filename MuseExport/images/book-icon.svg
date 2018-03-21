@@ -1,0 +1,28 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 71.5 69.75">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <title>book icon</title>
+  <g>
+    <polygon class="cls-1" points="1 1 1 56.25 35.25 68.75 70.5 56.75 70.5 1 35.75 12.25 1 1"/>
+    <line class="cls-2" x1="8" y1="18.25" x2="29.25" y2="26"/>
+    <line class="cls-2" x1="8" y1="30.5" x2="29.25" y2="38.25"/>
+    <line class="cls-2" x1="8" y1="42.25" x2="29.25" y2="50"/>
+    <line class="cls-2" x1="44.855" y1="10.302" x2="44.855" y2="32.75"/>
+  </g>
+</svg>
